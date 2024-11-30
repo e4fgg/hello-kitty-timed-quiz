@@ -40,6 +40,7 @@ p {
 }
 
 #timer {
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
     bottom: 30px;
     left: 15px;
