@@ -63,6 +63,7 @@ p {
 }
 
 #stop-timer {
+    cursor: pointer;
     background-color: #febddf;
     color: white;
     position: relative;
@@ -73,6 +74,7 @@ p {
     border-radius: 8px;
     font-weight: bold;
     transition-duration: 0.4s;
+    
 }
 
 #stop-timer:hover {
@@ -80,6 +82,7 @@ p {
 }
 
 .choice {
+    cursor: pointer;
     display: block;
     background-color: #febddf;
     color: #ff86c7;
