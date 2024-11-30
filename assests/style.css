@@ -23,7 +23,7 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Moderustic';
+    font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     color: #ff86c7;
     text-shadow: 2px 2px pink;
@@ -48,7 +48,8 @@ p {
     position: relative;
     left: 5px;
     bottom: -15px;
-    text-shadow: 2px 2px pink
+    text-shadow: 2px 2px pink;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
 #press-play {
