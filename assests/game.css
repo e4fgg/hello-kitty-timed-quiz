@@ -78,7 +78,7 @@ p {
 }
 
 #stop-timer:hover {
-    background-color: #ff86c7;
+    box-shadow: 0 0.4rem 1.4rem 0 #ff86c7
 }
 
 .choice {
@@ -100,11 +100,11 @@ p {
 }
 
 .choice:hover {
-    background-color: #ff86c7;
+    box-shadow: 0 0.4rem 1.4rem 0 #ff86c7
 }
 
 #next:hover {
-    background-color: #ff86c7;
+    box-shadow: 0 0.4rem 1.4rem 0 #ff86c7
 }
 
 .format {
