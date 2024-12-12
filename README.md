@@ -8,5 +8,5 @@ Open source source Hello Kitty Themed Quiz game!
 > This project was made with HTML, CSS, and Vanilla Javascript.
 
 > [!IMPORTANT]
-> No external frameworks were used, please consider checking out some other projects by clicking on my Github page.
+> Please consider checking out some other projects by clicking on my Github page.
 
